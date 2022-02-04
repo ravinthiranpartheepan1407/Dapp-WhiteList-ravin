@@ -127,9 +127,7 @@ const addAddressToWhiteList = async() =>{
     <Header />
     <div className="bg-gray-900 h-56 grid grid-cols-4 text-white gap-4 content-evenly">
       <h1 className="block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"> Welcome To Azog Community </h1>
-      <div className="block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
-        It's an NFT-DAO based Community
-      </div>
+      <div className="block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"> It is an NFT-DAO based Community </div>
       <div className="block p-6 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
         {numberOfWhiteListed} have already joined the whitelist
       </div>
